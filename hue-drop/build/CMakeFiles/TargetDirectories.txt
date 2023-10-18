@@ -1,0 +1,3 @@
+/home/tehuki/C_Projects/hue-drop/build/CMakeFiles/HueDrop.dir
+/home/tehuki/C_Projects/hue-drop/build/CMakeFiles/edit_cache.dir
+/home/tehuki/C_Projects/hue-drop/build/CMakeFiles/rebuild_cache.dir

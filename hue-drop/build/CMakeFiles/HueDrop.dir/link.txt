@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/HueDrop.dir/src/main.c.o -o HueDrop  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libcurl.so /usr/local/lib/libjson-c.so.5.3.0 -lm 
