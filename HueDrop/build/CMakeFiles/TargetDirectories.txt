@@ -1,3 +1,0 @@
-/home/tehuki/C_Backups/HueDropV0.3/build/CMakeFiles/HueDrop.dir
-/home/tehuki/C_Backups/HueDropV0.3/build/CMakeFiles/edit_cache.dir
-/home/tehuki/C_Backups/HueDropV0.3/build/CMakeFiles/rebuild_cache.dir
